@@ -31,7 +31,7 @@ tags: [jekyll, github.io, minimal-mistakes]
 
 원하는 테마를 고른 후 해당 repository에 가서 fork한다.
 
-![Image Alt 텍스트]({{site.url}}/assets/images/jekyll_theme.png )
+![지킬 Theme](/assets/images/jekyll_theme.png)
 - 주의할 점!
 
     repository를 fork한다면 fork까지는 잔디가 생기지만
