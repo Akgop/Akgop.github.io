@@ -29,9 +29,8 @@ tags: [jekyll, github.io, minimal-mistakes]
 
 ---
 
-원하는 테마를 고른 후 해당 repository에 가서 fork한다.
+원하는 테마를 고른 후 해당 repository를 fork한다.
 
-![지킬 Theme](/assets/images/jekyll_theme.png)
 - 주의할 점!
 
     repository를 fork한다면 fork까지는 잔디가 생기지만
@@ -43,7 +42,6 @@ tags: [jekyll, github.io, minimal-mistakes]
 
 ---
 
-<img src="/assets/images/jekyll_theme2.png">
 
 해당 repository의 settings에서 "Repository name"을 "깃허브이름.github.io"로 변경한다.
 
