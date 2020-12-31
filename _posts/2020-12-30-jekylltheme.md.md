@@ -1,8 +1,11 @@
 ---
 title: Github.io 블로그 Jekyll 테마 적용하여 쉽게 생성하기 (Window 10)
-categories: github.io
-layout: archive
-tags: [jekyll, github.io, minimal-mistakes]
+categories: 
+  - github.io
+tags: 
+  - jekyll
+  - github.io
+  - minimal-mistakes
 ---
 
 # Jekyll 테마(minimal-mistake) 적용하여 Github.io블로그 쉽게 생성하기
