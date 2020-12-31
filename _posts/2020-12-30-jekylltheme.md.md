@@ -5,14 +5,14 @@ layout: archive
 tags: [jekyll, github.io, minimal-mistakes]
 ---
 
-## Jekyll 테마(minimal-mistake) 적용하여 Github.io블로그 쉽게 생성하기
+# Jekyll 테마(minimal-mistake) 적용하여 Github.io블로그 쉽게 생성하기
 
 - Ruby와 Git, Github Desktop은 설치되어 있어야 한다.
 - 빠뜨린게 있을 수 있습니다. 지적 부탁드립니다!
 
 ---
 
-### 테마 선택 & Fork
+## 테마 선택 & Fork
 
 ---
 <a href="https://github.com/topics/jekyll-theme" class="btn btn--primary">Jekyll Themes Pages1</a>
@@ -36,9 +36,8 @@ tags: [jekyll, github.io, minimal-mistakes]
     repository를 fork한다면 fork까지는 잔디가 생기지만
     이 후 commit시 잔디가 생기지 않는다
 
----
 
-### 불필요한 파일 삭제
+## 불필요한 파일 삭제
 
 ---
 
@@ -74,7 +73,7 @@ docs에는 샘플 데이터가 있으므로 참고하고 싶다면 삭제하지 
 
 ### _config.yml 파일 수정
 
----
+
 
 취향에 맞게 설정
 
@@ -84,9 +83,9 @@ docs에는 샘플 데이터가 있으므로 참고하고 싶다면 삭제하지 
 
 [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
----
 
-### Gemfile 설정
+
+## Gemfile 설정
 
 ---
 
@@ -138,9 +137,9 @@ $ bundle install
 
 위 명령어를 통해 gemfile의 내용들을 설치한다.
 
----
 
-### _data / navigation.yml 파일 수정
+
+## _data / navigation.yml 파일 수정
 
 ---
 
@@ -162,9 +161,9 @@ Quick-Start Guide는 #을 통해 주석처리
 
 입맛에 맞게 추가한다.
 
----
 
-### _Pages 디렉토리 추가
+
+## _Pages 디렉토리 추가
 
 ---
 
@@ -189,9 +188,9 @@ permalink: /categories/
 
 Tags도 같은 방법으로 진행한다.
 
----
 
-### 새로운 글 포스팅 하기
+
+## 새로운 글 포스팅 하기
 
 ---
 
@@ -211,5 +210,3 @@ tags: [jekyll, github.io, minimal-mistakes]
 헤더에 config가 적용 될 수 있도록 위와 같이 추가한다.
 
 여러 샘플들을 참고하며 진행하면 된다.
-
----
