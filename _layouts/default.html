@@ -13,12 +13,17 @@
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
-
+    <div class="page__hero--overlay" style=" background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/banner.jpg');">
+      <div class="wrapper">
+        <h1 id="page-title" class="page__title" itemprop="headline">
+          악곱 == 악성곱슬
+        </h1>
+      </div>
+    </div>
     <div class="initial-content">
       {{ content }}
     </div>
