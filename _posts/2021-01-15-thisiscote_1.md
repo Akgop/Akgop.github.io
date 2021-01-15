@@ -1,5 +1,5 @@
 ---
-title: 1\. 복잡도
+title: \[이코테] 1\. 복잡도
 categories: 
   - thisiscote
 tags: 
