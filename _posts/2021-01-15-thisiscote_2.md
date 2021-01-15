@@ -10,7 +10,7 @@ tags:
 
 ---
 
-[[BOJ] 11047 동전0](http://akgop.github.io/thisiscote/BOJ11047/)
+[[BOJ] 11047 동전0](http://akgop.github.io/boj/BOJ11047/)
 
 
 ### 개념
