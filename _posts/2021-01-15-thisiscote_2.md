@@ -10,7 +10,7 @@ tags:
 
 ---
 
-[[BOJ] 11047 동전0](http://akgop.github.io/boj/BOJ11047/)
+[[BOJ] 11047 동전0](http://akgop.github.io/boj/BOJ11047/)<br>
 [[BOJ] 1931 회의실 배정](http://akgop.github.io/boj/BOJ1931/)
 
 ### 개념
