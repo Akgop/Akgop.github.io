@@ -12,7 +12,8 @@ tags:
 
 [[BOJ] 11047 동전0](http://akgop.github.io/boj/BOJ11047/)<br>
 [[BOJ] 1931 회의실 배정](http://akgop.github.io/boj/BOJ1931/)<br>
-[[BOJ] 11399 ATM](http://akgop.github.io/boj/BOJ11399/)
+[[BOJ] 11399 ATM](http://akgop.github.io/boj/BOJ11399/)<br>
+[[BOJ] 1541 ATM](http://akgop.github.io/boj/BOJ1541/)<br>
 
 ### 개념
 
