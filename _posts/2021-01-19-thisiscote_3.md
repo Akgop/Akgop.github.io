@@ -11,6 +11,7 @@ tags:
 
 ---
 
+[[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_31/)
 
 
 ### 개념
