@@ -12,6 +12,7 @@ tags:
 ---
 
 [[BOJ] 2606 바이러스](http://akgop.github.io/boj/BOJ2606/)<br>
+[[BOJ] 2667 단지 번호 붙이기](http://akgop.github.io/boj/BOJ2667/)<br>
 [[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_41/)
 
 
