@@ -1,4 +1,10 @@
-# 전화번호 목록
+---
+title: \[프로그래머스] 전화번호 목록
+categories: 
+  - programmers
+tags: 
+  - hash
+---
 
 ### 1트
 
