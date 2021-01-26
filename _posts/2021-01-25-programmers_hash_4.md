@@ -19,9 +19,9 @@ def solution(genres, plays):
     answer = []
     n = len(genres)   # 장르의 개수를 n으로 설정
     table = dict()    
-    # {"key": [[-1, total], [고유번호, play], [고유번호, play]]
+    # {"key": [[-1, total], [고유번호, play], [고유번호, play]]}
     # 첫 원소로 total값을 계속 더해주어 나중에 장르 순서로 정렬하기 좋게 구현
-		for i in range(n):
+        for i in range(n):
         # 이미 테이블에 해당 장르가 있다면
         if genres[i] in table:
             # 해당 장르 total play 연산
