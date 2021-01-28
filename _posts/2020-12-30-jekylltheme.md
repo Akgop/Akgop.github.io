@@ -6,6 +6,7 @@ tags:
   - jekyll
   - github.io
   - minimal-mistakes
+toc: true
 ---
 
 # Jekyll 테마(minimal-mistake) 적용하여 Github.io블로그 쉽게 생성하기

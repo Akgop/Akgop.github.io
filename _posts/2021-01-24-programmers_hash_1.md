@@ -5,6 +5,7 @@ categories:
 tags: 
   - hash
   - dictionary
+toc: true
 ---
 
 ### 1트

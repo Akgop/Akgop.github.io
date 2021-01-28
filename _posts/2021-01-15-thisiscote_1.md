@@ -5,6 +5,7 @@ categories:
 tags: 
   - time complexity
   - space complexity
+toc: true
 ---
 
 ! 이것이 코딩 테스트다 책을 정리하여 내가 다시 보기 위함 !

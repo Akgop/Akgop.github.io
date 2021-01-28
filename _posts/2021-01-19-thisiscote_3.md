@@ -5,6 +5,7 @@ categories:
 tags: 
   - bruteforce
   - simulation
+toc: true
 ---
 
 ### 관련 코드 구현

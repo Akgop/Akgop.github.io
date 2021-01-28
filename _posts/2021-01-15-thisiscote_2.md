@@ -4,6 +4,7 @@ categories:
   - thisiscote
 tags: 
   - greedy
+toc: true
 ---
 
 ### 관련 코드 구현
