@@ -1,5 +1,5 @@
 ---
-title: \[프로그래머스] 보석 쇼핑
+title: \[프로그래머스] 보석 쇼핑 (2020 카카오 인턴십)
 categories: 
   - programmers
 tags: 
