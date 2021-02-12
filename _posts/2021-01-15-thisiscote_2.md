@@ -11,6 +11,7 @@ toc: true
 
 ---
 
+[[BOJ] 1336 단어 수학](http://akgop.github.io/boj/BOJ1336/)<br>
 [[BOJ] 1541 잃어버린 괄호](http://akgop.github.io/boj/BOJ1541/)<br>
 [[BOJ] 1931 회의실 배정](http://akgop.github.io/boj/BOJ1931/)<br>
 [[BOJ] 1946 신입사원](http://akgop.github.io/boj/BOJ1946/)<br>
