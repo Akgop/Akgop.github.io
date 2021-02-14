@@ -1,11 +1,11 @@
 ---
 title: \[자료구조] 힙(heap) & 우선순위 큐(priority queue) & heapq
 categories: 
-  - data structure
+  - data_structure
 tags: 
   - heap
   - heapq
-  - priority queue
+  - priority_queue
 toc: true
 ---
 
