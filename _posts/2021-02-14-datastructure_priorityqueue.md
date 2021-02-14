@@ -15,9 +15,9 @@ toc: true
 
 힙은 최댓값(max-heap), 최솟값(min-heap)을 빠르게 구하기 위해 고안된 완전이진트리(complete binary tree)형태의 자료구조이다.
 
-트리구조이므로 데이터를 추가하는 비용은 O(logN)이다
+트리구조이므로 데이터를 추가하는 비용은 O(logN)이다.
 
-![minheap_insert](/assets/images/datastructure/minheap_insert.png)
+![minheap_insert](/assets/images/datastructure/minheap.png)
 
 위 그림에서 배열의 인덱스를 1부터 시작하도록 표시했는데 그렇게 해야 child // 2 == parent가 성립하기 때문이다. 0으로 해도 상관없다, 그에 맞춰 구현하기만 한다면
 
