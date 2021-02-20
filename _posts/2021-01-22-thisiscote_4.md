@@ -15,6 +15,7 @@ toc: true
 [[BOJ] 1012 유기농 배추](http://akgop.github.io/boj/BOJ1012/)<br>
 [[BOJ] 2606 바이러스](http://akgop.github.io/boj/BOJ2606/)<br>
 [[BOJ] 2667 단지 번호 붙이기](http://akgop.github.io/boj/BOJ2667/)<br>
+[[BOJ] 5567 결혼식](http://akgop.github.io/boj/BOJ5567/)<br>
 [[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_41/)
 
 
