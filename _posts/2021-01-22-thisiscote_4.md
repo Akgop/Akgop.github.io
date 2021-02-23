@@ -17,6 +17,7 @@ toc: true
 [[BOJ] 2667 단지 번호 붙이기](http://akgop.github.io/boj/BOJ2667/)<br>
 [[BOJ] 5567 결혼식](http://akgop.github.io/boj/BOJ5567/)<br>
 [[BOJ] 7576 토마토](http://akgop.github.io/boj/BOJ7576/)<br>
+[[BOJ] 14502 연구소](http://akgop.github.io/boj/BOJ14502/)<br>
 [[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_41/)
 
 
