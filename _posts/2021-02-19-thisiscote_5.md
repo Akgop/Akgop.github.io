@@ -7,6 +7,12 @@ tags:
 toc: true
 ---
 
+### 관련 코드 구현
+
+---
+
+[[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_51/)
+
 ### 개념
 
 ---
