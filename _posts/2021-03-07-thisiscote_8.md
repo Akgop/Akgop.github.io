@@ -45,7 +45,7 @@ toc: true
 아래 코드는 쉽게 구현할 수 있는 대신, O(V^2)의 성능을 갖는다.
 
 ```python
- import sys
+import sys
 
 INF = int(1e9)
 
@@ -108,7 +108,7 @@ for i in range(1, node + 1):
 
 힙과 우선순위 큐에 대한 설명은 아래 링크에 자세하게 설명했다.
 
-<링크>
+[힙, 우선순위 큐, heapq](https://akgop.github.io/data_structure/datastructure_priorityqueue/)
 
 개선된 다익스트라 알고리즘 코드는 아래와 같다.
 
