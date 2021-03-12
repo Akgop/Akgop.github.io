@@ -16,8 +16,10 @@ toc: true
 
 ---
 
+[[BOJ] 1197 최소 스패닝 트리](http://akgop.github.io/boj/BOJ1197/)<br>
 [[BOJ] 1717 집합의 표현](http://akgop.github.io/boj/BOJ1717/)<br>
 [[BOJ] 1976 여행 가자](http://akgop.github.io/boj/BOJ1976/)<br>
+[[BOJ] 9372 상근이의 여행](http://akgop.github.io/boj/BOJ9372/)<br>
 
 
 ### 그래프(Graph)
