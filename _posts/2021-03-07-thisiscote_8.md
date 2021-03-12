@@ -11,7 +11,9 @@ toc: true
 
 ---
 
+[[BOJ] 1504 특정한 최단경로](http://akgop.github.io/boj/BOJ1504/)<br>
 [[BOJ] 1753 최단경로](http://akgop.github.io/boj/BOJ1753/)<br>
+[[BOJ] 11404 플로이드](http://akgop.github.io/boj/BOJ11404/)<br>
 [[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_81/)
 
 ### 최단 경로(Shortest Path)
