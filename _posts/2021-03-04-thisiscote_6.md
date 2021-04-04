@@ -12,6 +12,7 @@ toc: true
 ---
 
 [[BOJ] 16564 히오스 프로게이머](http://akgop.github.io/boj/BOJ16564/)<br>
+[[BOJ] 1654 랜선 자르기](http://akgop.github.io/boj/BOJ1654/)<br>
 [[이코테] 실전 문제(예제)](http://akgop.github.io/thisiscote/thisiscote_61/)
 
 ### 순차 탐색(Sequential Search)
