@@ -1,4 +1,11 @@
-# 최단 경로
+---
+title: \[알고리즘] 최단 경로 알고리즘
+categories: 
+  - algorithms
+tags: 
+  - shortest path
+toc: true
+---
 
 ### 최단 경로 알고리즘이란?
 
