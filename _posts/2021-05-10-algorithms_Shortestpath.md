@@ -53,7 +53,7 @@ toc: true
 
 하나의 정점에서 모든 정점으로의 최단 경로
 
-- [다익스트라(Dijkstra)](https://akgop.github.io/algorithms/algorithms_dijkstra), Bellman-Ford
+- [다익스트라(Dijkstra)](https://akgop.github.io/algorithms/algorithms_Dijkstra), Bellman-Ford
 
 모든 정점에서 모든 정점으로의 최단 경로
 
