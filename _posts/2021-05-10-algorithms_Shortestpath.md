@@ -57,5 +57,5 @@ toc: true
 
 모든 정점에서 모든 정점으로의 최단 경로
 
-- Floyd Warshall
+- [플로이드(Floyd Warshall)](https://akgop.github.io/algorithms/algorithms_Floyd)
 
