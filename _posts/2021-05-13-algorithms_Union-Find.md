@@ -4,7 +4,7 @@ categories:
   - algorithms
 tags: 
   - shortest path
-  - floyd
+  - union-find
 toc: true
 ---
 
