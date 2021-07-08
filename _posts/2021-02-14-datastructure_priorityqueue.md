@@ -5,7 +5,7 @@ categories:
 tags: 
   - heap
   - heapq
-  - priority_queue
+  - priority queue
 toc: true
 ---
 
