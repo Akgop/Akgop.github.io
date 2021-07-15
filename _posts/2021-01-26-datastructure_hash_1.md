@@ -1,7 +1,7 @@
 ---
 title: \[자료구조] 해시
 categories: 
-  - data_structure
+  - data structure
 tags: 
   - hash
   - dictionary
