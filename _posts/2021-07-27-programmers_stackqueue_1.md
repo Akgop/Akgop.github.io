@@ -1,4 +1,11 @@
-# 기능개발
+---
+title: \[프로그래머스] 기능개발
+categories: 
+  - programmers
+tags: 
+  - queue
+toc: true
+---
 
 ### 큐, 브루트 포스
 
