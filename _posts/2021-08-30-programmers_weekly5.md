@@ -3,8 +3,7 @@ title: \[프로그래머스] 5주차 모음 사전
 categories: 
   - programmers
 tags:
-  - hash
-  - simulation
+  - bruteforce
 toc: true
 ---
 ### 브루트 포스
