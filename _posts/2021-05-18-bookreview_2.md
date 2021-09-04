@@ -5,6 +5,7 @@ categories:
 tag:
   - Memory
   - Disk
+sticky: true
 toc: true
 ---
 
