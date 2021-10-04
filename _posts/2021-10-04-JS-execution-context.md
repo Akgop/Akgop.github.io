@@ -3,8 +3,8 @@ title: \[Javascript] 실행 컨텍스트
 categories: 
   - javascript
 tags: 
-  - scope
-  - hoisting
+  - execution context
+  - lexical environment
 toc: true
 ---
 
